@@ -1,1 +1,0 @@
-# flipperzero-nfc-security-tool
